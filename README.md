@@ -29,3 +29,5 @@
 > 了解掌握tools：
 >
 > ​	ansible、FTP，SVN、GIT、NFS、rsync、redis、zabbix、nagios、keepalived、docker等
+
+`# web页js效果是网上参考而来，此处仅用来blog显示`
